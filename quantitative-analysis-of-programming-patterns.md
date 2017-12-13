@@ -1,12 +1,9 @@
 # Quantitative analysis of programming patterns in scientific computing
 
-Keywords: programming languages, program analysis, quantitative analysis,
+- Keywords: programming languages, program analysis, quantitative analysis,
 design patterns
-
-Project type: Individual
-Difficulty: Challenging
-Requirements: Functional programming skills
-Resources: None beyond standard computing provision
+- Project type: Individual or small group
+- Requirements: Functional programming skills
 
 This project seeks to better understand the prevalent programming
 patterns in computational science to help inform future language
