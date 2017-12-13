@@ -1,4 +1,4 @@
-*Quantitative analysis of programming patterns in scientific computing*
+** Quantitative analysis of programming patterns in scientific computing **
 
 Keywords: programming languages, program analysis, quantitative analysis,
 design patterns
