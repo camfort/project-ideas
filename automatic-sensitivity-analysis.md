@@ -31,8 +31,8 @@ can lean towards implementation or towards deeper research. For example, one mig
 extend the techniques of these papers or to provide a rigorous (mathematical) comparison
 between the two main approaches in the literature.
 
-[0] http://camfort.github.io
-[1] Continuity Analysis of Programs (2010) Chaudhuri et al.  https://www.cs.rice.edu/~sc40/pubs/continuity.pdf
-[2] Continuity and robustness of programs (2012) Chaudhuri et al. https://www.cs.rice.edu/~sc40/pubs/p107-chaudhuri.pdf
-[3] Type-based Sensitivity Analysis (2013) - Antoni et al. https://pdfs.semanticscholar.org/1e7e/d2f38cf9fdbf35f5ed02d0e1a383ae5f87d6.pdf
-[4] A Semantic Account of Metric Preservation (2017) - Amorm et al. https://arxiv.org/pdf/1702.00374.pdf
+- [0] http://camfort.github.io
+- [1] Continuity Analysis of Programs (2010) Chaudhuri et al.  https://www.cs.rice.edu/~sc40/pubs/continuity.pdf
+- [2] Continuity and robustness of programs (2012) Chaudhuri et al. https://www.cs.rice.edu/~sc40/pubs/p107-chaudhuri.pdf
+- [3] Type-based Sensitivity Analysis (2013) - Antoni et al. https://pdfs.semanticscholar.org/1e7e/d2f38cf9fdbf35f5ed02d0e1a383ae5f87d6.pdf
+- [4] A Semantic Account of Metric Preservation (2017) - Amorm et al. https://arxiv.org/pdf/1702.00374.pdf
